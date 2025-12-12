@@ -1,0 +1,67 @@
+[33mcommit 3fbc24e93192be61dd511d27f798626462490f81[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: git config --global user.email nova151kra@gmail.com <you@example.com>
+Date:   Fri Dec 5 11:10:57 2025 +0600
+
+    Добавлена оптимизация гиперпараметров LogisticRegression
+
+[33mcommit 509680e0bcdbcc6e308fa547f2b261b3b1653f6a[m[33m ([m[1;31mupstream/master[m[33m, [m[1;31mupstream/HEAD[m[33m)[m
+Author: demonomer <demonomer@gmail.com>
+Date:   Sat Nov 29 09:49:42 2025 +0300
+
+    Добавил модель Decision Tree.
+    Загрузил деревья в data/decision_trees.
+    Исправил путь к файлу данных.
+
+[33mcommit 39f1df555d21ddd0f816ab82ed23b8fb4b548525[m
+Author: framey1 <130970183+framey1@users.noreply.github.com>
+Date:   Fri Nov 28 13:09:13 2025 +0300
+
+    Add files via upload
+
+[33mcommit b277002fabefac70a410ea15c81e67293b578a83[m
+Author: Andrew Fer <ksarion1@gmail.com>
+Date:   Thu Nov 20 00:07:05 2025 +0500
+
+    First baseline
+
+[33mcommit 2181c9c2d6cf9294cdf24dce17aeadfc3df4f481[m
+Author: framey1 <130970183+framey1@users.noreply.github.com>
+Date:   Sun Nov 9 22:33:28 2025 +0300
+
+    Rename test.ipynb to eda.ipynb
+
+[33mcommit b7f4691ac193e19d6f0fe4162a14dd11f6bf1d25[m
+Merge: 03ef4f0 96d6fe5
+Author: framey1 <130970183+framey1@users.noreply.github.com>
+Date:   Sun Nov 9 22:33:00 2025 +0300
+
+    Merge pull request #5 from ACME-URFU/eda-analysis
+    
+    Moved
+
+[33mcommit 96d6fe54babf68cf2390069fe530c4a639dbb758[m[33m ([m[1;31mupstream/eda-analysis[m[33m)[m
+Author: framey1 <framenoobe@gmail.com>
+Date:   Sun Nov 9 22:31:54 2025 +0300
+
+    Moved
+
+[33mcommit 03ef4f0ed4df53bea3af35c6cfbe1cd77cff090e[m
+Merge: af28c12 cca1108
+Author: framey1 <130970183+framey1@users.noreply.github.com>
+Date:   Sun Nov 9 18:02:39 2025 +0300
+
+    Merge pull request #4 from ACME-URFU/eda-analysis
+    
+    Добавлен EDA-анализ датасета
+
+[33mcommit cca1108b4c6c36e8302c895247f62cf4003e8fcd[m
+Author: framey1 <framenoobe@gmail.com>
+Date:   Sun Nov 9 17:44:54 2025 +0300
+
+    Добавлен EDA-анализ датасета
+
+[33mcommit af28c12f3bd84ebdb66e6f86333de79cfb38eaa8[m
+Author: Alex <alexsf2017@ya.ru>
+Date:   Fri Nov 7 15:01:59 2025 +0300
+
+    Initial
